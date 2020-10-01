@@ -13,6 +13,7 @@ public class Main {
         } else {
             System.out.println("x<100");
         }
+	    //Юра первый!
     }
 
 }
