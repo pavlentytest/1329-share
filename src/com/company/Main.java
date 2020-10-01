@@ -11,7 +11,7 @@ public class Main {
         // Я запрещаю запрещать мне писать нецензурные выражения
 	    if(x > 100) {
 	        System.out.println("x>100");
-        } else {
+        } else {//это Олег
             System.out.println("x<100");
         }
     }
