@@ -9,10 +9,15 @@ public class Main {
 	    int x = scan.nextInt();
 	    // МОй КОММЕНТ
         // Я запрещаю запрещать мне писать нецензурные выражения
+        // Идите вы все в ПТУ...
 	    if(x > 100) {
 	        System.out.println("x>100");
-        } else {//это Олег
-            System.out.println("x<100");
+	    }
+	    else if (x == 100) {
+            System.out.println("x=100");
+        }
+	    else {
+	        System.out.println("x<100");
         }
     }
 //никто не догадался писать здесь...
