@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
 	    int x = scan.nextInt();
-	    // МОй КОММЕНТ
+	    // aaaaaa
         // Я запрещаю запрещать мне писать нецензурные выражения
         // Идите вы все в ПТУ...
 	    if(x > 100) {
