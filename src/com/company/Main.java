@@ -12,8 +12,12 @@ public class Main {
         // Идите вы все
 	    if(x > 100) {
 	        System.out.println("x>100");
-        } else {//это Олег
-            System.out.println("x<100");
+	    }
+	    else if (x == 100) {
+            System.out.println("x=100");
+        }
+	    else {
+	        System.out.println("x<100");
         }
     }
 
