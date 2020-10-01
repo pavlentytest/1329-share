@@ -9,10 +9,12 @@ public class Main {
 	    int x = scan.nextInt();
 	    // добавил комментарий
 	    if(x >= 100) {
+	    // МОй КОММЕНТ
+        // Я запрещаю запрещать мне писать нецензурные выражения
+	    if(x > 100) {
 	        System.out.println("x>100");
         } else {
             System.out.println("x<100");
-
         }
     }
 
