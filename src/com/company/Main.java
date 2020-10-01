@@ -8,10 +8,11 @@ public class Main {
 	    Scanner scan = new Scanner(System.in);
 	    int x = scan.nextInt();
 	    // добавил комментарий
-	    if(x > 100) {
+	    if(x >= 100) {
 	        System.out.println("x>100");
         } else {
             System.out.println("x<100");
+
         }
     }
 
