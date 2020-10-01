@@ -19,6 +19,7 @@ public class Main {
 	    else {
 	        System.out.println("x<100");
         }
+	    // тут был Юра
     }
 //никто не догадался писать здесь...
 }
