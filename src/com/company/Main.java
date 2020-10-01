@@ -10,8 +10,12 @@ public class Main {
 	    // МОй КОММЕНТ
 	    if(x > 100) {
 	        System.out.println("x>100");
-        } else {
-            System.out.println("x<100");
+	    }
+	    else if (x == 100) {
+            System.out.println("x=100");
+        }
+	    else {
+	        System.out.println("x<100");
         }
     }
 
