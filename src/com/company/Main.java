@@ -8,6 +8,8 @@ public class Main {
 	    Scanner scan = new Scanner(System.in);
 	    int x = scan.nextInt();
 	    // МОй КОММЕНТ
+        // Я запрещаю запрещать мне писать нецензурные выражения
+        // Идите вы все
 	    if(x > 100) {
 	        System.out.println("x>100");
         } else {
