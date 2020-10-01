@@ -15,5 +15,5 @@ public class Main {
             System.out.println("x<100");
         }
     }
-
+//никто не догадался писать здесь...
 }
